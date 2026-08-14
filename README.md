@@ -83,7 +83,7 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shinde-harshad-jalindar)
 [![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:shindeharshad2907@gmail.com)
-[![LeetCode](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/HarshadShinde)
+[![LeetCode](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/Harshad-Shinde/)
 [![TryHackMe](https://go-skill-icons.vercel.app/api/icons?i=tryhackme)]()
 
 <img src="/divider1.png">
