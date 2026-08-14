@@ -55,11 +55,26 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
 
 </table>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=HarshadShindeExpert&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=HarshadShindeExpert&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=HarshadShindeExpert&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
 
+<div align=center>
+
+[![](https://raw.githubusercontent.com/HarshadShindeExpert/HarshadShindeExpert/main/profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/HarshadShindeExpert/HarshadShindeExpert/main/profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/HarshadShindeExpert/HarshadShindeExpert/main/profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/HarshadShindeExpert/HarshadShindeExpert/main/profile-summary-card-output/gotham/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/HarshadShindeExpert/HarshadShindeExpert/main/profile-summary-card-output/gotham/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+<!-- ========== PROFILE VIEWS ========== -->
+         
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarshadShindeExpert&style=for-the-badge&color=00bfbf" alt=""/>
+</div>
+<div align="center">
+  <a href="https://github.com/HarshadShindeExpert?tab=repositories&sort=stargazers">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/HarshadShindeExpert?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" >
+  <a href="https://github.com/HarshadShindeExpert?tab=followers"><img src="https://img.shields.io/github/followers/HarshadShindeExpert?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" /></a>
+</div>
  <img width="1000" src="/github-snake.svg" alt="snake"/>
 
 <div align="center">
