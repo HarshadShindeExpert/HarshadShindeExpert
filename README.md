@@ -44,9 +44,7 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
 <tr>
   <td align="center"><img src="https://skillicons.dev/icons?i=arduino" width="40"/><br>arduino</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40"/><br>AWS</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=nmap" width="40"/><br>Git</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=esp32" width="40"/><br>Postman</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=parrot" width="40"/><br>Kali Linux</td>
+
 </tr>
 
 
