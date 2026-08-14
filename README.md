@@ -60,7 +60,7 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
 ![](https://streak-stats.demolab.com/?user=HarshadShindeExpert&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=HarshadShindeExpert&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
+ <img width="1000" src="/github-snake.svg" alt="snake"/>
 
 <div align="center">
 
@@ -71,6 +71,6 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
 [![LeetCode](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/HarshadShinde)
 [![TryHackMe](https://go-skill-icons.vercel.app/api/icons?i=tryhackme)]()
 
-<img src="Assests/divider1.png">
+<img src="/divider1.png">
 
 </div>
